@@ -4,4 +4,4 @@ this is a test
 
 un altra modifica
 
-modifica dopo un commit ma senza sync --ora aggiungo questo dopo commit, test di un conflict-- (push)
+modifica dopo un commit ma senza sync(push)
